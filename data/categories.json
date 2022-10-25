@@ -1,0 +1,33 @@
+[
+    {
+      "id": "01",
+      "name": "HTML & CSS",
+      "image_url": "https://5.imimg.com/data5/ZC/JB/QT/GLADMIN-52140874/selection-087-500x500.png"
+    },
+    {
+      "id": "02",
+      "name": "Bootstrap",
+      "image_url": "https://www.venturelessons.com/wp-content/uploads/2020/05/bootstrap-courses-scaled.jpg"
+
+    },
+    {
+      "id": "03",
+      "name": "Javascript",
+      "image_url": "https://miro.medium.com/max/1024/1*YQgaKfVzK-YpxyT3NYqJAg.png"
+    },
+    {
+      "id": "04",
+      "name": "React",
+      "image_url": "https://nareshit.com/wp-content/uploads/2019/01/ReactJS-online-training-nareshit.jpg"
+    },
+    {
+      "id": "05",
+      "name": "Angular",
+      "image_url": "https://ict-trainings.com/storage/app/public/course/banner_5c88b1428edb1.jpg"
+    },
+    {
+      "id": "06",
+      "name": "Vue",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRwVv6QfOudcremVyOxGCSztCKz3WkOLhiQMfDsO5-6EfYv1RyqJPpT2rzTz42DaSfysI&usqp=CAU"
+    }
+  ]
