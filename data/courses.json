@@ -1,0 +1,99 @@
+[
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+      "category_id": "01",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 488,
+      "title": "HTML & CSS",
+      "instructor": {
+        "name": "Jimmy Dane",
+        "published_date": "2022-08-24 17:27:34",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+      "image_url": "https://5.imimg.com/data5/ZC/JB/QT/GLADMIN-52140874/selection-087-500x500.png",
+      "details": "HTML (the Hypertext Markup Language) and CSS (Cascading Style Sheets) are two of the core technologies for building Web pages. HTML provides the structure of the page, CSS the (visual and aural) layout, for a variety of devices. Along with graphics and scripting, HTML and CSS are the basis of building Web pages and Web Applications.HTML is the language for describing the structure of Web pages. The separation of HTML from CSS makes it easier to maintain sites, share style sheets across pages, and tailor pages to different environments. This is referred to as the separation of structure (or: content) from presentation.",
+      "price" : "25$"
+},
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+      "category_id": "02",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 488,
+      "title": "Bootstrap",
+      "instructor": {
+        "name": "Jimmy Potter",
+        "published_date": "2022-08-24 17:27:34",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+      "image_url": "https://www.venturelessons.com/wp-content/uploads/2020/05/bootstrap-courses-scaled.jpg",
+      "details": "Originally created by a designer and a developer at Twitter, Bootstrap has become one of the most popular front-end frameworks and open source projects in the world.Bootstrap was created at Twitter in mid-2010 by @mdo and @fat. Prior to being an open-sourced framework, Bootstrap was known as Twitter Blueprint. A few months into development, Twitter held its first Hack Week and the project exploded as developers of all skill levels jumped in without any external guidance. It served as the style guide for internal tools development at the company for over a year before its public release, and continues to do so today.Originally released on August 19, 2011, we’ve since had over twenty releases, including two major rewrites with v2 and v3. With Bootstrap 2, we added responsive functionality to the entire framework as an optional styleSheet. Building on that with Bootstrap 3, we rewrote the library once more to make it responsive by default with a mobile first approach.",
+      "price" : "30$"
+ },
+
+    {
+      "_id": "f69a695f037cd9484cecaea37ca71011",
+      "category_id": "03",
+      "rating": { "number": 4.8, "badge": "Excellent" },
+      "total_view": 400,
+      "title": "Javascript",
+      "instructor": {
+        "name": "Jennifer Wood",
+        "published_date": "2022-08-30 16:38:45",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
+      "image_url": "https://miro.medium.com/max/1024/1*YQgaKfVzK-YpxyT3NYqJAg.png",
+      "details": "JavaScript (often shortened to JS) is a lightweight, interpreted, object-oriented language with first-class functions, and is best known as the scripting language for Web pages, but it's used in many non-browser environments as well. It is a prototype-based, multi-paradigm scripting language that is dynamic, and supports object-oriented, imperative, and functional programming styles.JavaScript runs on the client side of the web, which can be used to design / program how the web pages behave on the occurrence of an event. JavaScript is an easy to learn and also powerful scripting language, widely used for controlling web page behavior.Contrary to popular misconception, JavaScript is not Interpreted Java. In a nutshell, JavaScript is a dynamic scripting language supporting prototype based object construction. The basic syntax is intentionally similar to both Java and C++ to reduce the number of new concepts required to learn the language.",
+      "price" : "50$"
+},
+    {
+      "_id": "f69a695f037cd9484cecaea37ca71012",
+      "category_id": "04",
+      "rating": { "number": 4.3, "badge": "Excellent" },
+      "total_view": 400,
+      "title": "React",
+      "instructor": {
+        "name": "Ron Even",
+        "published_date": "2022-08-30 16:38:45",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
+      "image_url": "https://nareshit.com/wp-content/uploads/2019/01/ReactJS-online-training-nareshit.jpg",
+      "details": "React is a JavaScript-based UI development library. Facebook and an open-source developer community run it. Although React is a library rather than a language, it is widely used in web development. The library first appeared in May 2013 and is now one of the most commonly used frontend libraries for web development.React offers various extensions for entire application architectural support, such as Flux and React Native, beyond mere UI.",
+      "price" : "45$"
+   },
+    {
+      "_id": "11468ed61aee84de492a8b04158a22f9",
+      "category_id": "05",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 980,
+      "title": "Angular",
+      "instructor": {
+        "name": "Donald Biden",
+        "published_date": "2022-08-24 23:15:00",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
+      "image_url": "https://ict-trainings.com/storage/app/public/course/banner_5c88b1428edb1.jpg",
+      "details": "AngularJS is a structural framework for dynamic web apps. It lets you use HTML as your template language and lets you extend HTML's syntax to express your application's components clearly and succinctly. AngularJS's data binding and dependency injection eliminate much of the code you would otherwise have to write. And it all happens within the browser, making it an ideal partner with any server technology.AngularJS is what HTML would have been, had it been designed for applications. HTML is a great declarative language for static documents.",
+      "price" : "60$"
+    },
+    {
+      "_id": "11468ed61aee84de492a8b04158a22f0",
+      "category_id": "06",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 980,
+      "title": "Vue",
+      "instructor": {
+        "name": "Jennifer Winget",
+        "published_date": "2022-08-24 23:15:00",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRwVv6QfOudcremVyOxGCSztCKz3WkOLhiQMfDsO5-6EfYv1RyqJPpT2rzTz42DaSfysI&usqp=CAU",
+      "details": "Vue (pronounced /vjuː/, like view) is a JavaScript framework for building user interfaces. It builds on top of standard HTML, CSS and JavaScript, and provides a declarative and component-based programming model that helps you efficiently develop user interfaces, be it simple or complex.Vue is a framework and ecosystem that covers most of the common features needed in frontend development. But the web is extremely diverse - the things we build on the web may vary drastically in form and scale. With that in mind, Vue is designed to be flexible and incrementally adoptable.",
+      "price" : "55$"
+     }
+    ]
