@@ -4,7 +4,8 @@
       "category_id": "01",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_enroll": 48811,
-      "title": "HTML & CSS",
+      "title": "HTML&CSS Tutorial and Projects Course 2022",
+      "intro" :"Web Development for absolute beginners.Learn HTML5 and CSS3 from scratch by building 20+ amazing real world projects.",
       "instructor": {
         "name": "Jimmy Dane",
         "published_date": "2022-08-24 17:27:34",
@@ -16,11 +17,29 @@
       "price" : "25$"
 },
     {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab23",
+      "category_id": "01",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_enroll": 48811,
+      "title": "CSS - The Complete Guide 2022",
+      "intro" :"Learn CSS for the first time or brush up your CSS skills and dive in even deeper. EVERY web developer has to know CSS.",
+      "instructor": {
+        "name": "Jimmy Dane",
+        "published_date": "2022-08-24 17:27:34",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+      "image_url": "https://res.cloudinary.com/practicaldev/image/fetch/s--g0HssmUa--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8sy8ksbubdqyevd2i2n5.png",
+      "details": "Cascading Style Sheets (CSS) is a stylesheet language used to describe the presentation of a document written in HTML or XML (including XML dialects such as SVG, MathML or XHTML). CSS describes how elements should be rendered on screen, on paper, in speech, or on other media.CSS is among the core languages of the open web and is standardized across Web browsers according to W3C specifications. Previously, the development of various parts of CSS specification was done synchronously, which allowed the versioning of the latest recommendations. You might have heard about CSS1, CSS2.1, or even CSS3. There will never be a CSS3 or a CSS4; rather, everything is now CSS without a version number.",
+      "price" : "25$"
+},
+    {
       "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
       "category_id": "02",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_enroll": 48845,
-      "title": "Bootstrap",
+      "title": "Bootstrap 4 From Scratch With 5 Projects",
+      "intro" :"Master Bootstrap 4 and build 5 real world themes while learning HTML5 semantics & CSS3.",
       "instructor": {
         "name": "Jimmy Potter",
         "published_date": "2022-08-24 17:27:34",
@@ -31,13 +50,31 @@
       "details": "Originally created by a designer and a developer at Twitter, Bootstrap has become one of the most popular front-end frameworks and open source projects in the world.Bootstrap was created at Twitter in mid-2010 by @mdo and @fat. Prior to being an open-sourced framework, Bootstrap was known as Twitter Blueprint. A few months into development, Twitter held its first Hack Week and the project exploded as developers of all skill levels jumped in without any external guidance. It served as the style guide for internal tools development at the company for over a year before its public release, and continues to do so today.Originally released on August 19, 2011, we’ve since had over twenty releases, including two major rewrites with v2 and v3. With Bootstrap 2, we added responsive functionality to the entire framework as an optional styleSheet. Building on that with Bootstrap 3, we rewrote the library once more to make it responsive by default with a mobile first approach.",
       "price" : "30$"
  },
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2aban",
+      "category_id": "02",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_enroll": 48845,
+      "title": "Tailwind CSS From Scratch ",
+      "intro" :"Build great looking layouts fast and efficiently using Tailwind CSS utility classes",
+      "instructor": {
+        "name": "Jimmy Potter",
+        "published_date": "2022-08-24 17:27:34",
+        "img": "https://images.unsplash.com/photo-1544168190-79c17527004f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aW5zdHJ1Y3RvcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+      },
+      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+      "image_url": "https://tailwindcss.com/_next/static/media/banner.79c40690.jpg",
+      "details": "A utility-first CSS framework packed with classes like flex, pt-4, text-center and rotate-90 that can be composed to build any design, directly in your markup.Because Tailwind is so low-level, it never encourages you to design the same site twice. Even with the same color palette and sizing scale, it's easy to build the same component with a completely different look in the next project.",
+      "price" : "30$"
+ },
 
     {
       "_id": "f69a695f037cd9484cecaea37ca71011",
       "category_id": "03",
       "rating": { "number": 4.8, "badge": "Excellent" },
       "total_enroll": 40056,
-      "title": "Javascript",
+      "title": "The Complete JavaScript Course 2022",
+      "intro" :"The modern JavaScript course for everyone! Master JavaScript with projects, challenges and theory. Many courses in one!",
       "instructor": {
         "name": "Jennifer Wood",
         "published_date": "2022-08-30 16:38:45",
@@ -53,7 +90,8 @@
       "category_id": "04",
       "rating": { "number": 4.3, "badge": "Excellent" },
       "total_enroll": 40000,
-      "title": "React",
+      "title": "React - The Complete Guide",
+      "intro" :"Dive in and learn React.js from scratch! Learn Reactjs, Hooks, Redux, React Routing, Animations, Next.js and way more!",
       "instructor": {
         "name": "Evena diana",
         "published_date": "2022-08-30 16:38:45",
@@ -69,7 +107,8 @@
       "category_id": "05",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_enroll": 98000,
-      "title": "Angular",
+      "title": "Angular - The Complete Guide (2022 Edition)",
+      "intro" :"Master Angular 13 (formerly Angular 2) and build awesome, reactive web apps with the successor of Angular.js",
       "instructor": {
         "name": "Donald Biden",
         "published_date": "2022-08-24 23:15:00",
@@ -85,7 +124,8 @@
       "category_id": "06",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_enroll": 98000,
-      "title": "Vue",
+      "title": "Vue - The Complete Guide",
+      "intro" :"Vue.js is an awesome JavaScript Framework for building Frontend Applications! VueJS mixes the Best of Angular + React!",
       "instructor": {
         "name": "Jennifer Winget",
         "published_date": "2022-08-24 23:15:00",
